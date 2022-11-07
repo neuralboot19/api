@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hashed_id: MyString
+  name: MyString
+  points: MyString
+  icon: MyString
+
+two:
+  hashed_id: MyString
+  name: MyString
+  points: MyString
+  icon: MyString

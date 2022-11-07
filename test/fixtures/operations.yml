@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hashed_id: MyString
+  type_operation: MyString
+  operation: MyString
+  result: MyString
+  title: MyString
+  id_url_video_youtube: MyString
+  help: MyString
+  point: MyString
+  show: MyString
+  option: MyString
+
+two:
+  hashed_id: MyString
+  type_operation: MyString
+  operation: MyString
+  result: MyString
+  title: MyString
+  id_url_video_youtube: MyString
+  help: MyString
+  point: MyString
+  show: MyString
+  option: MyString

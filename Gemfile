@@ -50,7 +50,7 @@ gem "bootsnap", require: false
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
-  gem "debug", platforms: %i[ mri mingw x64_mingw ]
+  gem "byebug", platforms: %i[ mri mingw x64_mingw ]
 end
 
 group :development do
@@ -70,3 +70,29 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "devise", "~> 4.8"
+
+gem "dotenv-rails", "~> 2.8"
+
+gem "bson", "~> 4.15"
+
+gem "activeadmin", "~> 2.13"
+
+gem "arctic_admin", "~> 3.3"
+
+gem "omniauth", "~> 2.1"
+
+gem "omniauth-facebook", "~> 9.0"
+
+gem "oj", "~> 3.13"
+
+gem "fast_jsonapi", "~> 1.5"
+
+gem "koala", "~> 3.3"
+
+gem "sass-rails", "~> 6.0"
+
+gem "coffee-rails", "~> 5.0"
+
+gem "font-awesome-sass", "~> 5.15"
